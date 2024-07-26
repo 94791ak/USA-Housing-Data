@@ -72,3 +72,39 @@ Some features had negligible coefficients, indicating they are less influential 
 ## Data Sources
 
 The data used in this project was obtained from the Federal Reserve Economic Data (FRED) at https://fred.stlouisfed.org/.
+
+## Data Descriptions
+
+This dataset includes various economic and housing-related indicators used to analyze the **S&P/Case-Shiller U.S. National Home Price Index** (Target). Below is a brief description of each variable:
+
+- **Target**: **S&P/Case-Shiller U.S. National Home Price Index** - A measure of the value of residential real estate across the United States.
+
+- **all_Const_Emp**: **All Employees, Residential Building Construction** - Total number of employees in the residential building construction sector.
+
+- **emratio**: **Employment-Population Ratio** - The ratio of the employed population to the total population.
+
+- **gdp**: **Gross Domestic Product** - The total market value of all goods and services produced in the United States.
+
+- **home_ow_rate**: **Homeownership Rate (Percentage)** - The percentage of homes occupied by the owners.
+
+- **house_st**: **Housing Starts (New Housing Project)** - The number of new residential construction projects that have begun during a particular period.
+
+- **IPI_Cement**: **Industrial Production: Cement** - A measure of the production output of the cement industry.
+
+- **labor_percent**: **Labor Force Participation Rate** - The percentage of the population that is either employed or actively seeking employment.
+
+- **monthly_supply**: **Monthly Supply of New Houses in the United States** - The number of months it would take to sell the current inventory of new houses at the current sales rate.
+
+- **MSPUS**: **Median Sales Price of Houses Sold for the United States** - The median price at which houses are sold.
+
+- **new_private_house**: **New Privately-Owned Housing Construction Completed (Total units in thousands)** - The total number of new privately-owned housing units completed.
+
+- **new_private_hw_under**: **New Privately-Owned Housing Units Under Construction: Total Units (thousands)** - The total number of new privately-owned housing units currently under construction.
+
+- **p_saving_rate**: **Personal Saving Rate (Percent)** - The percentage of personal income that individuals save rather than spend on consumption.
+
+- **ppi_cement**: **Producer Price Index - Cement Manufacturing** - The average change over time in the selling prices received by domestic producers for their output in the cement manufacturing sector.
+
+- **PPI_Concrete**: **Producer Price Index by Industry: Concrete Brick** - The average change over time in the selling prices received by domestic producers in the concrete brick industry.
+
+- **total_emp_cons**: **All Employees, Construction (Thousands of persons)** - The total number of employees working in the construction sector.
